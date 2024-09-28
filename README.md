@@ -40,6 +40,3 @@ Finally, launch Cisco Packet Tracer:
 ```bash
 packettracer
 ```
-
-
-#Xafiq
