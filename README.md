@@ -11,8 +11,8 @@
 
 ## Check for new updates 
 
-``` bash
-  sudo apt update
+```bash
+sudo apt-get update -y && sudo apt-get full-upgrade -y && sudo apt autoremove -y
 ```
 
 ---
